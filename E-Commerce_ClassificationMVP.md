@@ -24,7 +24,7 @@ The figure below shows the correlation between the features
 
 <img src="https://github.com/hanaaalqarni5/E-Commerce_Classification/blob/main/ON%20TIME.png" width="400"/>
 
-### Start Model Selection Procedures
+### Start Model Selection Procedures :
 Several models were tried and played with to get a feel of the data, and those models are:
 
 1- Logistic Regression (Baseline).
