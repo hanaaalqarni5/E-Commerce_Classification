@@ -34,6 +34,7 @@ Several models were tried and played with to get a feel of the data, and those m
 3- Random Forest.
 
 4- K Nearest Neighbor.
+
 5- Voting
 
 6- XGBOOST.
