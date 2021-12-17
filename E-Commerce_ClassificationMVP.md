@@ -24,5 +24,16 @@ The figure below shows the correlation between the features
 
 <img src="https://github.com/hanaaalqarni5/E-Commerce_Classification/blob/main/ON%20TIME.png" width="400"/>
 
+### Start Model Selection Procedures
+Several models were tried and played with to get a feel of the data, and those models are:
+
+1- Logistic Regression (Baseline)
+2- Decision Tree.
+3- Random Forest.
+4- K Nearest Neighbor.
+5- Voting
+6- XGBOOST.
+
+### All of the six models above were then plotted using the ROC to compare each model's performance.
 
 
