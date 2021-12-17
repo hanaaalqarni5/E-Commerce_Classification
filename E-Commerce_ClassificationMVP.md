@@ -35,5 +35,3 @@ Several models were tried and played with to get a feel of the data, and those m
 6- XGBOOST.
 
 ### All of the six models above were then plotted using the ROC to compare each model's performance.
-
-
