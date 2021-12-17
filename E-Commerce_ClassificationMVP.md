@@ -4,10 +4,6 @@
 This project aim is E-Commerce Shipping Data,Product Shipment Delivered on time or not ? To Meet E-Commerce Customer Demand .
 
 
-### Workflow:
-
-The dataset for this project is theE-Commerce Shipping  dataset on Kaggle, And our target is the Reached on time .
-
 The figure below shows the correlation between the features 
 
 <img src="https://github.com/hanaaalqarni5/E-Commerce_Classification/blob/main/correlation.png" width="700"/>
