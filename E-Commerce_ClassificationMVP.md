@@ -27,7 +27,7 @@ The figure below shows the correlation between the features
 ### Start Model Selection Procedures
 Several models were tried and played with to get a feel of the data, and those models are:
 
-1- Logistic Regression (Baseline)
+1- Logistic Regression (Baseline).
 2- Decision Tree.
 3- Random Forest.
 4- K Nearest Neighbor.
