@@ -20,9 +20,9 @@ The figure below shows the correlation between the features
 
 <img src="https://github.com/hanaaalqarni5/E-Commerce_Classification/blob/main/correlation.png" width="700"/>
 
-### Zero indicates the amount of Reached on time , 1 indicates the amount of not Reached on time : 
+#### Zero indicates the amount of Reached on time , 1 indicates the amount of not Reached on time : 
 
-<img src="https://github.com/hanaaalqarni5/E-Commerce_Classification/blob/main/ON%20TIME.png" width="500"/>
+<img src="https://github.com/hanaaalqarni5/E-Commerce_Classification/blob/main/ON%20TIME.png" width="400"/>
 
 
 
