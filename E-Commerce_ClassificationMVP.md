@@ -16,6 +16,13 @@ The dataset for this project is theE-Commerce Shipping  dataset on Kaggle, And o
 
 4-find the correlation and plot heatmap
 
-The figure below shows the correlation between the features
+The figure below shows the correlation between the features 
 
 <img src="https://github.com/hanaaalqarni5/E-Commerce_Classification/blob/main/correlation.png" width="700"/>
+
+# Zero indicates the amount of Reached on time , 1 indicates the amount of not Reached on time : 
+
+<img src="https://github.com/hanaaalqarni5/E-Commerce_Classification/blob/main/ON%20TIME.png" width="500"/>
+
+
+
