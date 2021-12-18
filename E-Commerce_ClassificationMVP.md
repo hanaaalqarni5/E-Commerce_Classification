@@ -29,3 +29,7 @@ Several models were tried and played with to get a feel of the data, and those m
 
 
 ### All of the six models above were then plotted using the ROC to compare each model's performance.
+
+
+<img src="https://github.com/hanaaalqarni5/E-Commerce_Classification/blob/main/ROC.jpg" width="400"/>
+
