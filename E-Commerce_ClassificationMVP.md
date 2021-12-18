@@ -9,6 +9,7 @@ This project aim is E-Commerce Shipping Data,Product Shipment Delivered on time 
 <img src="https://github.com/hanaaalqarni5/E-Commerce_Classification/blob/main/correlation.png" width="700"/>
 
 #### Zero indicates the amount of Reached on time , 1 indicates the amount of not Reached on time : 
+##### balnced data or imblanced :
 
 <img src="https://github.com/hanaaalqarni5/E-Commerce_Classification/blob/main/implalance.png" width="400"/>
 
