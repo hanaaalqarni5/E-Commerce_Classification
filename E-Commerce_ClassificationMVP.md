@@ -10,7 +10,7 @@ This project aim is E-Commerce Shipping Data,Product Shipment Delivered on time 
 
 #### Zero indicates the amount of Reached on time , 1 indicates the amount of not Reached on time : 
 
-<img src="https://github.com/hanaaalqarni5/E-Commerce_Classification/blob/main/ON%20TIME.png" width="400"/>
+<img src="https://github.com/hanaaalqarni5/E-Commerce_Classification/blob/main/implalance.png" width="400"/>
 
 ### Start Model Selection Procedures :
 Several models were tried and played with to get a feel of the data, and those models are:
@@ -31,5 +31,5 @@ Several models were tried and played with to get a feel of the data, and those m
 ### All of the six models above were then plotted using the ROC to compare each model's performance.
 
 
-<img src="https://github.com/hanaaalqarni5/E-Commerce_Classification/blob/main/ROC.jpg" width="400"/>
+<img src="https://github.com/hanaaalqarni5/E-Commerce_Classification/blob/main/ROC.jpg" width="500"/>
 
